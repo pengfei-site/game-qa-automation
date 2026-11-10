@@ -1,0 +1,11 @@
+﻿.venv/
+__pycache__/
+.pytest_cache/
+allure-results/
+allure-report/
+reports/
+tools/
+*.png
+test_airtest_device_backup.py
+test_airtest_device_pre_allure.py
+diagnose_airtest_cleanup.py
